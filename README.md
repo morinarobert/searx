@@ -5,7 +5,7 @@ PROOF THAT SEARX WORKS AND PROTECTS YOUR INFORMATION
 
 https://docs.google.com/presentation/d/1ETtA2IvZR8g2DmW4pIonUq2t7sFBHzno9LvK-tScils/edit?usp=sharing
 
-Resaurces:
+Resources:
 https://restoreprivacy.com/private-search-engine/
 https://nakedsecurity.sophos.com/2017/08/10/self-hosted-search-option-is-a-new-approach-to-bursting-the-filter-bubble/
 https://www.makeuseof.com/tag/technology-explained-what-is-a-meta-search-engine/
