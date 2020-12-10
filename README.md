@@ -17,14 +17,16 @@ CHALLENGES:
 ** Note.....Learn to read and understand Python language.
 
 
-RESOURCES:
-https://restoreprivacy.com/private-search-engine/
-https://nakedsecurity.sophos.com/2017/08/10/self-hosted-search-option-is-a-new-approach-to-bursting-the-filter-bubble/
-https://www.makeuseof.com/tag/technology-explained-what-is-a-meta-search-engine/
-https://searx.github.io/searx/admin/installation-nginx.html
+References:
 
-How to protect privacy? (documentation)
-https://searx.github.io/searx/user/own-instance.html#:~:text=Searx%20protects%20the%20privacy%20of%20its%20users%20in,third%20party%20services%20through%20search%20services%20%28e.g.%20advertisement%29
+Taylor, Sven, et al. “7 Best Private Search Engines (And Some You Should AVOID).” Restore Privacy, 11 Sept. 2020, restoreprivacy.com/private-search-engine/.
 
+Bradbury, Danny, et al. “Self-Hosted Search Option Is a New Approach to Bursting the Filter Bubble.” Naked Security, 10 Aug. 2017, nakedsecurity.sophos.com/2017/08/10/self-hosted-search-option-is-a-new-approach-to-bursting-the-filter-bubble/. 
+
+Kashyap, Varun, and Varun Kashyap (142 Articles Published). “What Is A Meta Search Engine &amp; How It Works? [Technology Explained].” MakeUseOf, 13 Feb. 2010, www.makeuseof.com/tag/technology-explained-what-is-a-meta-search-engine/. 
+
+“Install with Nginx¶.” Install with Nginx - Searx Documentation (Searx-0.17.0.Tex), searx.github.io/searx/admin/installation-nginx.html. 
+
+“Why Use a Private Instance?¶.” Why Use a Private Instance? - Searx Documentation (Searx-0.17.0.Tex), searx.github.io/searx/user/own-instance.html. 
 
 
